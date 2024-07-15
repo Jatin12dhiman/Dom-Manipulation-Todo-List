@@ -91,3 +91,6 @@ li:last-child {
     align-items: center;
     justify-content: space-between;
 }
+.Completed{
+    text-decoration: line-through;
+}
